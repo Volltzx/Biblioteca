@@ -283,7 +283,7 @@ void opcao4(int &cont, string titulos[], string autores[], string editoras[], st
             }else{
                 cout << "=======================================" << endl;
                 cout << "Livro NAO ENCONTRADO!" << endl;
-                 cout << "=======================================" << endl;
+                cout << "=======================================" << endl;
                 cout << "Aperte [ENTER] para voltar ao menu: " ;
                 getchar();
 
